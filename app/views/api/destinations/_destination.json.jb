@@ -1,0 +1,10 @@
+{
+  id: destination.id,
+  name: destination.name,
+  description: destination.description,
+  activities: destination.activities,
+  accomodations: destination.accomodations,
+  distance_from_santorini: destination.distance_from_santorini,
+  rating: destination.rating,
+  images: destination.images,
+}

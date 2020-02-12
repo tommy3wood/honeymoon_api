@@ -1,0 +1,3 @@
+@destinations.map do |destination|
+  render partial: 'destination.json.jb', locals: {destination: destination}
+end
