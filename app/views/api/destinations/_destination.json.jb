@@ -1,5 +1,5 @@
 {
-  id: destination.id,
+  # id: destination.id,
   name: destination.name,
   description: destination.description,
   activities: destination.activities,

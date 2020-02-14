@@ -6,7 +6,7 @@ class Api::DestinationsController < ApplicationController
   end
 
   def show
-    @Destination = Destination.find(params[:id])
+    @destination = Destination.find(params[:id])
     render 'show.json.jb'
   end
 
